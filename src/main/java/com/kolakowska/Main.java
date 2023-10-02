@@ -13,16 +13,12 @@ public class Main {
 
         var usersList = new GenericList<User>();
 
-        User newUser = new User();
+        User newUser = new User("Asia", "Kolakowska", 31);
 
-        String newName = "Asia";
-
-        System.out.println(newUser);
-
-        usersList.add(new User());
+        usersList.add(newUser);
         User user = usersList.get(0);
 
-        System.out.println(usersList);
+        System.out.println(user);
 
       /*  Scanner scanner = new Scanner(System.in);
 
