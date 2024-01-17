@@ -1,2 +1,2 @@
 # Generics
-Just an exercise
+Just an exercise.
