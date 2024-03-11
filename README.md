@@ -1,2 +1,2 @@
 # Generics
-Just an exercise in Java.
+An exercise in Java.
